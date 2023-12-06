@@ -1,0 +1,3 @@
+npx create-react-app react-query-demo
+
+setup mock data so, we use jsonserver
